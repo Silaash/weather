@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+
+import 'package:weather/view/screen/onboard.dart';
 import 'package:weather/view/screen/splash.dart';
 
 void main() {
